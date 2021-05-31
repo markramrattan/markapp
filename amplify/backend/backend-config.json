@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "markapp12554f2b": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
